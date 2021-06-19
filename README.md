@@ -1,5 +1,6 @@
 # AnyLogic-Models
 
-This repo consists of all of my anylogic models. 
+En este repositorio hay una recopilacion de modelos que encontre.
+Más modelos en https://cloud.anylogic.com/models?public=true&selectedCategory=All%20Models
 
-Please download anylogic from https://www.anylogic.com/downloads/ to run these simulation models.
+Para descargar AnyLogic https://www.anylogic.com/downloads/ .
